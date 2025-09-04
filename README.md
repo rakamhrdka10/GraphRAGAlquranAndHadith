@@ -84,4 +84,4 @@ Make sure you have the following installed and configured:
 
 The UI is designed for simplicity and ease of use. Users can input a question in the chat interface and receive a generated answer along with the sources used for retrieval.
 
-![Chatbot Screenshot](https://placehold.co/800x500?text=Your+Chatbot+Screenshot)
+![UI Screenshot](./UI.jpeg)
